@@ -1,1 +1,1 @@
-const asd = "String";
+const asd = ()=>{}
